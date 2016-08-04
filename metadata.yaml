@@ -1,0 +1,30 @@
+_repo: Henri-III-et-sa-Cour_2682
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Dumas, Alexandre
+    aliases:
+    - Dumas, Alexander
+    - Dumas, Alexandre, pere
+    - Dumas père, Alexandre
+    birthdate: 1802
+    deathdate: 1870
+    gutenberg_agent_id: '492'
+    url: http://www.gutenberg.org/2009/agents/492
+    wikipedia: http://en.wikipedia.org/wiki/Alexandre_Dumas,_père
+description: ''
+gutenberg_bookshelf: FR Théâtre
+gutenberg_issued: '2001-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2682'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Henry III, King of France, 1551-1589 -- Drama'
+- !lcc 'PQ'
+- GITenberg
+title: Henri III et sa Cour
+url: http://www.gutenberg.org/ebooks/2682
